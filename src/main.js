@@ -47,9 +47,7 @@ let string = `/*你好，我叫夏源
     border-radius: 50%;
     background: radial-gradient(circle, rgba(237,230,230,1) 0%, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 25%, rgba(0,0,0,1) 25%);
 }
-body{
-    color: red;
-}`
+`
 let string2 = "";
 console.log(string.length)
 let n = 0;
